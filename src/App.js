@@ -7,8 +7,6 @@ import {
   NavLink,
 } from "react-router-dom";
 
-import Nav from "./components/Nav";
-
 import Home from "./components/Home";
 import Edit from "./components/Edit";
 import Update from "./components/Update";

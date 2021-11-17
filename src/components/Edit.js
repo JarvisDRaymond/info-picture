@@ -70,7 +70,7 @@ export default function Edit(props) {
     };
     await updateDoc(customerDoc, newFields);
     alert("Updated DB");
-    window.location.reload(true);
+    window.location='https://www.jarvisdraymond.com/js-examples/info-picture';
   };
 
   useEffect(() => {
